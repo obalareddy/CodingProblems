@@ -1,0 +1,1 @@
+print("Array problem 1")
